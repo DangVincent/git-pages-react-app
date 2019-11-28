@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git-pages-react-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/git-pages-react-app/static/js/main.da5d19f1.chunk.js",
+    "main.js.map": "/git-pages-react-app/static/js/main.da5d19f1.chunk.js.map",
+    "runtime-main.js": "/git-pages-react-app/static/js/runtime-main.d2c988f6.js",
+    "runtime-main.js.map": "/git-pages-react-app/static/js/runtime-main.d2c988f6.js.map",
+    "static/js/2.f0e4f202.chunk.js": "/git-pages-react-app/static/js/2.f0e4f202.chunk.js",
+    "static/js/2.f0e4f202.chunk.js.map": "/git-pages-react-app/static/js/2.f0e4f202.chunk.js.map",
+    "index.html": "/git-pages-react-app/index.html",
+    "precache-manifest.3fb140bb1fabfa924abfbc2fabaf1b51.js": "/git-pages-react-app/precache-manifest.3fb140bb1fabfa924abfbc2fabaf1b51.js",
+    "service-worker.js": "/git-pages-react-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/git-pages-react-app/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/git-pages-react-app/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2c988f6.js",
+    "static/js/2.f0e4f202.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.da5d19f1.chunk.js"
+  ]
+}
